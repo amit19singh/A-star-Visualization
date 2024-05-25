@@ -1,1 +1,1 @@
-This is an A-star Algorithm visualization project using Pygame.
+This is an A* Path Finding Algorithm visualization project using Pygame.
